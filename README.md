@@ -1,1 +1,1 @@
-# Video-Game-Store-Managment
+# Video Game Store Management
